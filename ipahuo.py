@@ -1,5 +1,6 @@
 #coding:utf-8
 #by oensingle
+#2013-07-06
 
 import urllib,urllib2,re,cookielib,string
 from bs4 import BeautifulSoup
